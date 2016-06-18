@@ -1,28 +1,28 @@
 ### Site info:
-title: Freshman21
-tagline: Another Jekyll theme, Freshman twenty-first
-author: Lijia Yu
-email: yu@lijiayu.net
-description: "Freshman21 is a Jekyll blog theme." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
-keywords: "Jekyll, theme, Freshman21"
-baseurl: "/freshman21" # the subpath of your site, e.g. /blog/
-url: "http://yulijia.net/freshman21" # the base hostname & protocol for your site
-locale: en_US
+title: Mustafa Altinisik's Blog
+tagline: Github Blogu
+author: Mustafa Asım Altınışık
+email: mustafa@altinisik.net
+description: "Mustafa'nın Blogu" # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
+keywords: "MustafaAltınışık, blog, Odoo"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http:/mustafa@altinisik.net" # the base hostname & protocol for your site
+locale: tr_TR
 
 ### Personal info and site tools info:
-twitter_username: yulijia
-github_username:  yulijia
-disqus_shortname: freshman21
-favicon:     "/images/favicon.ico"
-aboutme: Hi, this is Lijia Yu. I made the Freshman21 theme. Please enjoy it. # these are shown on aboutme-sidebar.
-aboutme_photo: https://i.imgur.com/Mdc4szJl.jpg# your photo.
-google_analytics_key: UA-57979084-1 # put YOUR key here to enable tracking! (blank to disable)
+#twitter_username: yulijia
+github_username:  mustafa-altinisik
+disqus_shortname: mustafa-altinisik
+#favicon:     "/images/favicon.ico"
+aboutme: Merhaba,ben Mustafa.ASO Teknik Koleji Elektrik Elektronik öğrencisiyim.Yaptığım projeleri yayınladığım Blog'uma hoşgeldiniz.Keyfini çıkarın . # these are shown on aboutme-sidebar.
+aboutme_photo: https://www.gravatar.com/avatar/ade4610d6e8692c99d9534105405d89f# your photo.
+#google_analytics_key: UA-57979084-1 # put YOUR key here to enable tracking! (blank to disable)
 
 
 ### Site setting:
 ShowContactInfo: "True" # Personal Info (twitter,github,email) can be seen on aboutme-sidebar, those info only shown where ShowContactInfo == True
 default_column: "two" # blog style: two columns, if default_column != "two", you will see a one column blog.
-default_locale: "en" # blog sidebar language set, only include: English (en), Chinese (cn), Japanese (jp) and Polish (pl)
+default_locale: "tr" # blog sidebar language set, only include: English (en), Chinese (cn), Japanese (jp) and Polish (pl)
 
 locales:
     en:
@@ -43,6 +43,24 @@ locales:
       About: "About"
       Guestbook: "Guestbook"
       Subscribe: "Subscribe"
+    tr:
+      Aboutme: "Hakkımda"
+      Archives: "Arşivler"
+      Blogroll: "Blog"
+      Categories: "Kategoriler"
+      Copyright_Notice: "Telif Haklar"
+      Recent_Posts: "Yeni Makaleler"
+      Tags: "Etiketler"
+      Previous: "Önceki"
+      Next: "Sonraki"
+      PostedInCategories: "Kategoriler"
+      Taggedwith: "etiketler:"
+      PostDate: "tarih "
+      Google_search: "Site Araması"
+      Home: "Ana Menü"
+      About: "Hakkımda"
+      Guestbook: "Ziyaretçi Defteri"
+      Subscribe: "Abone ol"
     cn:
       Aboutme: "关于我"
       Archives: "存档"
@@ -101,10 +119,10 @@ locales:
 ### your Blogroll info, only name can shown on the page.
 
 Blogroll:
-      - name: Freshman
-        href: http://yulijia.net/freshman
-        title: Another Jekyll blog theme
-      - name: author's website
+      - name: Mustafa Altınışık
+        href: http://mustafa.altinisik.net
+        title: Mustafa Altınışık'ın Blogu
+      - name: Mustafa Blog
         href: http://yulijia.net/
         title: Lijia Yu's website
 
@@ -117,4 +135,4 @@ kramdown:
         syntax_highlighter: rouge
 gems: [jekyll-paginate]
 paginate: 5
-excerpt_separator: <!-- more -->
+excerpt_separator: <!-- Daha Fazla -->
