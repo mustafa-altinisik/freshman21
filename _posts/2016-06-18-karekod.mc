@@ -14,8 +14,6 @@ tags:
 - generator
 ---
 
-**********
-
 Bugün sizlere istediğimiz bir link için kare kod oluşturmayı göstereceğim.
 
 - Linki belirliyoruz.
