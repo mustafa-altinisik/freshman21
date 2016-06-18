@@ -1,9 +1,9 @@
 ---
 published: true
-title: Ücretsiz Kare Kod Oluşturma
+title: e-priz
 layout: post
 author: Mustafa Altınışık
-category: faydalı bilgiler
+category: projeler
 tags:
 - kare kod
 -QR Code
