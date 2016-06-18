@@ -122,10 +122,6 @@ Blogroll:
       - name: Mustafa Altınışık
         href: http://mustafa.altinisik.net
         title: Mustafa Altınışık'ın Blogu
-      - name: Mustafa Blog
-        href: http://yulijia.net/
-        title: Lijia Yu's website
-
 
 ### Build settings
 markdown: kramdown
