@@ -15,4 +15,6 @@ tags:
 
 Bugün sizlere istediğimiz bir link için kare kod oluşturmayı göstereceğim.
 - Linki belirliyoruz.
-- 
+- Linki kopyalıyoruz.
+-https://www.the-qrcode-generator.com/
+-Yukarıdaki adrese giriyoruz.
