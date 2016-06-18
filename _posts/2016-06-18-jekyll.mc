@@ -6,6 +6,6 @@ author: Mustafa Altınışık
 category: projeler
 tags:
 - priz
--jekyll
+- jekyll
 ---
-ncjnc usdjkbc hsbd jhbsd khjdsb 
+
