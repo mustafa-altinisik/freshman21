@@ -1,5 +1,5 @@
 ### Site info:
-title: Mustafa Altinisik's Blog
+title: Mustafa'nın Mekanı
 tagline: Github Blogu
 author: Mustafa Asım Altınışık
 email: mustafa@altinisik.net
@@ -48,7 +48,7 @@ locales:
       Archives: "Arşivler"
       Blogroll: "Blog"
       Categories: "Kategoriler"
-      Copyright_Notice: "Telif Haklar"
+      Copyright_Notice: "Telif Hakları"
       Recent_Posts: "Yeni Makaleler"
       Tags: "Etiketler"
       Previous: "Önceki"
