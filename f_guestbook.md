@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Guestbook
+title: Ziyaretçi Defteri
 comments: yes
 permalink: /guestbook/
 ---
