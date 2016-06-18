@@ -14,7 +14,7 @@ locale: tr_TR
 github_username:  mustafa-altinisik
 disqus_shortname: mustafa-altinisik
 #favicon:     "/images/favicon.ico"
-aboutme: Merhaba,ben Mustafa.ASO Teknik Koleji Elektrik Elektronik öğrencisiyim.Yaptığım projeleri yayınladığım Blog'uma hoşgeldiniz.Keyfini çıkarın . # these are shown on aboutme-sidebar.
+aboutme: Merhaba,ben Mustafa.ASO Teknik Koleji Elektrik Elektronik bölümü öğrencisiyim.Yaptığım projeleri yayınladığım Blog'uma hoşgeldiniz.Keyfini çıkarın . # these are shown on aboutme-sidebar.
 aboutme_photo: https://www.gravatar.com/avatar/ade4610d6e8692c99d9534105405d89f# your photo.
 #google_analytics_key: UA-57979084-1 # put YOUR key here to enable tracking! (blank to disable)
 
