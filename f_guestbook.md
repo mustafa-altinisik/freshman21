@@ -2,6 +2,6 @@
 layout: page
 title: Ziyaretçi Defteri
 comments: yes
-permalink: /guestbook/
+permalink: /ziyaretci_defteri/
 ---
 ## Merhaba,aşağıdaki ziyaretçi deferini doldurursanız sevinirim.
