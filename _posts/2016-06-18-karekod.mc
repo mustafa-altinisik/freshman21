@@ -3,7 +3,7 @@ published: true
 title: kare kod oluşturma
 layout: post
 author: Mustafa Altınışık
-category: faydalı bilgiler
+category: projeler
 tags:
 - priz
 - new features
