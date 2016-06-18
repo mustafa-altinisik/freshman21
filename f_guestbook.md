@@ -4,4 +4,4 @@ title: Ziyaretçi Defteri
 comments: yes
 permalink: /guestbook/
 ---
-## Merhaba,aşağıdaki ziyaretçi deferini doldurursanz sevinirim.
+## Merhaba,aşağıdaki ziyaretçi deferini doldurursanız sevinirim.
