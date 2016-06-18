@@ -3,7 +3,7 @@ title: Mustafa'nın Mekanı
 tagline: Github Blogu
 author: Mustafa Asım Altınışık
 email: mustafa@altinisik.net
-description: "Mustafa'nın Blogu" # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
+description: "Meraklının Sayfası" # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
 keywords: "MustafaAltınışık, blog, Odoo"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http:/mustafa@altinisik.net" # the base hostname & protocol for your site
