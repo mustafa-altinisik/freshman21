@@ -4,4 +4,4 @@ title: Guestbook
 comments: yes
 permalink: /guestbook/
 ---
-## Merhaba,blogumla ilgili yorum ve görüşlerinize her zaman açığım.
+## Merhaba,aşağıdaki ziyaretçi deferini doldurursanz sevinirim.
