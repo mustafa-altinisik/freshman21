@@ -17,7 +17,7 @@ tags:
 Bugün sizlere istediğimiz bir link için kare kod oluşturmayı göstereceğim.
 
 ********
-
+bu bir deneme yazısı
 - Raspberry pi 2 model B
 - MicroSD hafıza kartı
 - 5V 5A güç kaynağı
