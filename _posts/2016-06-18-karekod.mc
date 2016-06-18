@@ -16,9 +16,13 @@ tags:
 
 Bugün sizlere istediğimiz bir link için kare kod oluşturmayı göstereceğim.
 
+********
+
 - Raspberry pi 2 model B
 - MicroSD hafıza kartı
 - 5V 5A güç kaynağı
 - 5V Röle
+
+****************************
 
 Ardından bilgisayarınıza indirdiğiniz kare kodu normal bir jpg(Resim) dosyasıymış gibi kopyalayıp yapıştırabilirsiniz.
