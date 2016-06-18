@@ -15,7 +15,7 @@ tags:
 
 ---
 
-**********
+***********
 
 Bugün sizlere istediğimiz bir link için kare kod oluşturmayı göstereceğim.
 
@@ -27,4 +27,5 @@ Bugün sizlere istediğimiz bir link için kare kod oluşturmayı göstereceğim
 - Karşınızda yeni kare kodunuz.
 - Kare kodun sol üst köşesindeki SAVE butonuna basarak bilgisayarınıza kaydedebilirsiniz.
 
-Ardından bilgisayarınıza indirdiğiniz kare kodu normal bir jpg(Resim) dosyasıymış gibi kopyalayıp yapıştırabilirsiniz.
+
+*************
