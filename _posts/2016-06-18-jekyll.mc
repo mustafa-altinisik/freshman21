@@ -15,8 +15,6 @@ Bugün sizlere  sınıf arkadaşım Ömer Avcı ile birlikte gerçekleştirdiimi
 -Github hesabına girdiğinizde   https://github.com/jekyll/jekyll   adresine giriniz.
 -Adrese girdiğinizde
 
-
-
 ***********
 
 Sistemi açıkladığımıza göre şimdi sistemin elemanlarını sizlere açıklayayım.
