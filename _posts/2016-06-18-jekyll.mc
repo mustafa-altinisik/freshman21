@@ -1,17 +1,13 @@
 ---
 published: true
-title: jekyll İle Kendi Websitenizi Oluşturma
+title: Jekyll ile kendi websitenizi oluşturma 
 layout: post
 author: Mustafa Altınışık
 category: projeler
 tags:
-- priz
-- jekyll
-- web sitesi
+- websitesi
 - kendi
--ücretsiz
--oluştur
+- sitenizi
 ---
 
-Merhaba arkadaşlar bu yazımda benim de kullanmakta olduğum jekyll ile nasıl kendi websitenizi oluşturabileceğinizi anlatacağım.
-Diğer yazılarda olduğu gibi yine madde madde anlatacağım.
+Bugün sizlere  sınıf arkadaşım Ömer Avcı ile birlikte gerçekleştirdiimiz akıllı ev teknolojisinin temelini oluşturan e-priz projesini anlatacağım.
