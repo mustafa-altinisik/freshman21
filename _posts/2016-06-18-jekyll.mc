@@ -10,12 +10,7 @@ tags:
 - sitenizi
 ---
 
-
 Bugün sizlere  sınıf arkadaşım Ömer Avcı ile birlikte gerçekleştirdiimiz akıllı ev teknolojisinin temelini oluşturan e-priz projesini anlatacağım.
-aa
-a
-a
-a
-a
-a
-a
+- Öncelikle bir github hesabına sahip olmalısınız.
+- Github hesabına girdiğinizde   https://github.com/jekyll/jekyll   adresine giriniz.
+- Adrese girdiğinizde
