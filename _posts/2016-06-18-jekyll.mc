@@ -7,5 +7,9 @@ category: projeler
 tags:
 - priz
 - jekyll
+- web sitesi
+- kendi
+-ücretsiz
+-oluştur
 ---
 
