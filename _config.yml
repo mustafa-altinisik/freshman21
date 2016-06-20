@@ -7,7 +7,7 @@ description: "Meraklının Sayfası" # You can edit this line in _config.yml. It
 keywords: "MustafaAltınışık, blog"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http:/mustafa@altinisik.net" # the base hostname & protocol for your site
-locale: en_US
+locale: tr_TR
 
 ### Personal info and site tools info:
 twitter_username: mustafa_altnisk
@@ -20,9 +20,9 @@ google_analytics_key: UA-79586838-1 # put YOUR key here to enable tracking! (bla
 
 
 ### Site setting:
-ShowContactInfo: "False" # Personal Info (twitter,github,email) can be seen on aboutme-sidebar, those info only shown where ShowContactInfo == True
+ShowContactInfo: "True" # Personal Info (twitter,github,email) can be seen on aboutme-sidebar, those info only shown where ShowContactInfo == True
 default_column: "two" # blog style: two columns, if default_column != "two", you will see a one column blog.
-default_locale: "en" # blog sidebar language set, only include: English (en), Chinese (cn), Japanese (jp) and Polish (pl)
+default_locale: "tr" # blog sidebar language set, only include: English (en), Chinese (cn), Japanese (jp) and Polish (pl)
 
 locales:
     en:
