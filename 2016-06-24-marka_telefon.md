@@ -37,6 +37,7 @@ Tamamen metal olarak 12 Nisan 2016 tarihinde tanıtılan telefondan daha sonra b
 ## Huawei-P8
 Huawei ailesinin en gelişmiş cihazı p8 maalesef amiral gemisi cihazlara göre çok kısıtlı özelliklere sahip.
 
+************
 
 Cep telefonlarıyla ilgili yazılarımın devamı gelecektir.
 Yorumlarınızı ve sorularınızı bekliyorum...
