@@ -13,7 +13,9 @@
   {% endif %}
   {% if site.github_username != empty %}
   <a href="https://github.com/{{site.github_username}}" title="GithubID: {{site.github_username}}">Github</a> /
-
+  {% if instagram_username != empty %}
+  <a href="mailto:{{site.email}}" title="mailto: {{site.email}}">Email</a> /
+  {% endif %}
 
 
   {% endif %}
