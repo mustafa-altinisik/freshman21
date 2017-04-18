@@ -10,7 +10,6 @@ url: "http:/mustafa@altinisik.net" # the base hostname & protocol for your site
 locale: tr_TR
 
 ### Personal info and site tools info:
-twitter_username: mustafa_altnisk
 github_username:  mustafa-altinisik
 disqus_shortname: mustafaaltnk 
 #favicon:     "/images/favicon.ico"
